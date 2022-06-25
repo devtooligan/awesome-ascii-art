@@ -45,7 +45,7 @@
 
 In this repo I keep ascii art that I've created for [@yieldprotocol](https://github.com/yieldprotocol) smart contracts, personal projects, and other open source projects I contribute to.  
 
-Some of the art is copy/pasted from other sources, that I store in this repo for future use or to serve as inspiration.  Other artist's work can be identified because it has initials somewhere near it.  For example, jgs is one of my favorite ascii artists and you'll easily see her initials in the corner of some pieces.  I only ask that if you use any of the other artist's work please credit them by not removing their initials from the art.
+Some of the art is copy/pasted from other sources and stored in this repo for future use or to serve as inspiration.  Other artist's work can be identified because it has initials somewhere near it.  For example, jgs is one of my favorite ascii artists and you'll easily see her initials in the corner of some pieces.  I only ask that if you use any of the other artist's work please credit them by not removing their initials from the art.
 
 Anything that was done by me you are free to use however you like.  My mission is to promote the use of ascii art and other visual cues in smart contracts.
 
