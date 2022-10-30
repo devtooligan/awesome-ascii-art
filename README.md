@@ -77,6 +77,6 @@ _I'm a huge fan of Joan Stark's work. If anyone knows her or knows how I can con
  - [https://github.com/sepandhaghighi/art#1-line-art](https://github.com/sepandhaghighi/art#1-line-art) 🎨 ASCII art library for Python
  - [https://hackaday.com/2013/08/20/retrotechtacular-the-history-of-ansi-and-ascii-art/](https://hackaday.com/2013/08/20/retrotechtacular-the-history-of-ansi-and-ascii-art/) The history of ascii art.
  - [https://hackaday.com/2016/06/28/retrotechtacular-ascii-art-in-the-19th-century](https://hackaday.com/2016/06/28/retrotechtacular-ascii-art-in-the-19th-century/) Did you know ascii art dates back to the 1800's?
- - [http://www.roysac.com/learn/default.html](http://www.roysac.com/learn/default.html) - Tutorials for 7bit, 7bit and ansi ascii art.
+ - [http://www.roysac.com/learn/default.html](http://www.roysac.com/learn/default.html) - Tutorials for 7bit, 8bit and ansi ascii art.
  - [https://asciipr0n.com/](https://asciipr0n.com/) Yeah pron. Can't vouch for this site, seems shady.  Use caution.
  - [https://github.com/moul/awesome-ascii-art](https://github.com/moul/awesome-ascii-art) Another awesome-ascii-art repo.
